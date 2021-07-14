@@ -6,9 +6,9 @@ The codes of clone coding about Flutter Travel UI at 'Marcus Ng' Youtube channel
 
 YouTube : https://www.youtube.com/watch?v=CSa6Ocyog4U
 
-Source Code: https://github.com/MarcusNg/flutter_t...
+Source Code: https://github.com/MarcusNg/flutter_travel_ui
 
-Design: https://dribbble.com/shots/6510521-Tr...
+Design: https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
 
 
 ## Getting Started
