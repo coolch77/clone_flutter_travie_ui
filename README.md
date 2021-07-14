@@ -1,6 +1,15 @@
 # clone_flutter_travel_ui
 
-A new Flutter project.
+The codes of clone coding about Flutter Travel UI at 'Marcus Ng' Youtube channel
+
+![image](https://user-images.githubusercontent.com/36909992/125553571-c3150242-4a56-42d7-90ff-63f83daf3a62.png)
+
+YouTube : https://www.youtube.com/watch?v=CSa6Ocyog4U
+
+Source Code: https://github.com/MarcusNg/flutter_t...
+
+Design: https://dribbble.com/shots/6510521-Tr...
+
 
 ## Getting Started
 
